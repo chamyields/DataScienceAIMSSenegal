@@ -9,3 +9,5 @@ You will observe that the course material for each year is found in that year's 
 * Assigments, e.g., notebooks, code, pdf files
 * Assessments, e.g., notebooks, code, and pdf files
 
+To organise your course follow the structure of the High dimensional data analysis course as an example. 
+
